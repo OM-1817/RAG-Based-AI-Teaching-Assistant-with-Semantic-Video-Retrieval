@@ -1,0 +1,6 @@
+This is git and github course. Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
+
+[{"title":"Add & Commit Commands","number":"09","start":202.0,"end":204.0,"text":" commit means"},{"title":"Using Github","number":"03","start":419.0,"end":421.0,"text":" now what is this commit"},{"title":"Using Github","number":"03","start":421.0,"end":423.0,"text":" what is this one commit"}]
+---------------------------------
+"where is commit taught in this course"
+User asked this question related to the video chunks, you have to answer in a human way (dont mention the above format, its just for you) where and how much content is taught in which video (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the course
