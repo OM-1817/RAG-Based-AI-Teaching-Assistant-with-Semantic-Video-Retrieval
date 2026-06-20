@@ -1,0 +1,5 @@
+The Git branch topic is covered in Video 14 of the course.
+
+In Video 14, the instructor discusses the concept of branches in Git starting from approximately 5 seconds into the video. This section is titled "Git branches" and it covers the basics of what Git branches are and their meaning in the Git version control system.
+
+If you want to learn more about Git branches and how they work within your local repositories, I would recommend watching Video 14 of the course.

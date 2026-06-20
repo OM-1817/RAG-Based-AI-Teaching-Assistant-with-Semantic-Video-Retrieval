@@ -23,7 +23,7 @@ def inference(prompt):
     })
 
     response = r.json()
-    print(response)
+    
     return response
 
 incoming_query=input("Ask a question: ")
